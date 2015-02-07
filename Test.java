@@ -3,11 +3,10 @@ package com.steven;
 public class Test {
 
 	public static void main(String[] args) {
-		//ç·´ç¿’Git+Githubé ç«¯æ“ä½œ
-		//è«‹ç•™ä¸‹ä½ å€‹äººçš„è³‡è¨Šä»£è¡¨æˆ‘å€‘å…±åŒç·¨è¼¯äº†code
-		System.out.println("Stevenåˆ°æ­¤ä¸€éŠ!!!");
-		
-		System.out.println("this is just for test");
+		//½m²ßGit+Github»·ºİ¾Ş§@
+		//½Ğ¯d¤U§A­Ó¤Hªº¸ê°T¥Nªí§Ú­Ì¦@¦P½s¿è¤Fcode
+		System.out.println("Steven¨ì¦¹¤@¹C!!!");
+
 	}
 
 }
