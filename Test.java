@@ -12,6 +12,8 @@ public class Test {
 		System.out.println("Noah到此一遊!!!");
 		
 		System.out.println("Gary到此一遊!!!");
+		
+		System.out.prinln("Tsudanyer到此一遊!!!!!!!!");
 	}
 
 }
