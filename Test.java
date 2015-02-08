@@ -10,6 +10,8 @@ public class Test {
 		System.out.println("Pasion到此一遊!!!");
 		
 		System.out.println("Noah到此一遊!!!");
+		
+		System.out.println("Gary到此一遊!!!");
 	}
 
 }
