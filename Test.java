@@ -18,6 +18,7 @@ public class Test {
 
 
 		System.out.println("Ryan Weng到此一遊!!!");
+		System.out.println("Ryan 到此一遊!!!");
 	}
 
 }
