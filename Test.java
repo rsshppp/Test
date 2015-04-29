@@ -17,7 +17,7 @@ public class Test {
 		System.out.prinln("Tsudanyer到此一遊");
 
 
-		System.out.println("Ryan test again到此一遊!!!");
+		System.out.println("Ryan again到此一遊!!!");
 	}
 
 }
